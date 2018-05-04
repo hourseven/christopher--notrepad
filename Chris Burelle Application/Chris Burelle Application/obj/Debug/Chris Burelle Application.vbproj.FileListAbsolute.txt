@@ -1,0 +1,11 @@
+C:\Users\burel566\AppData\Local\Temporary Projects\Chris Burelle Application\bin\Debug\Chris Burelle Application.exe.config
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\bin\Debug\Chris Burelle Application.exe.config
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\bin\Debug\Chris Burelle Application.exe
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\bin\Debug\Chris Burelle Application.pdb
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\bin\Debug\Chris Burelle Application.xml
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\obj\Debug\Chris_Burelle_Application.Form1.resources
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\obj\Debug\Chris_Burelle_Application.Resources.resources
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\obj\Debug\Chris Burelle Application.vbproj.GenerateResource.Cache
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\obj\Debug\Chris Burelle Application.exe
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\obj\Debug\Chris Burelle Application.xml
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\Chris Burelle Application\Chris Burelle Application\obj\Debug\Chris Burelle Application.pdb
